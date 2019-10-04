@@ -1,5 +1,5 @@
 ---
-title: "Install Visual Studio"
+title: "Install Visual Studio "
 titleSuffix: ""
 description: "Learn how to install Visual Studio, step-by-step."
 ms.date: 04/16/2019
